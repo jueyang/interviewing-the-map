@@ -1,0 +1,1391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<facilitylocator>
+   <facility id="05000313">
+      <latitude>35.278417</latitude>
+	  <longitude>-93.133786</longitude>
+	  <title>Arkansas Nuclear One, Unit 1</title>
+	  <type>Operating Reactor</type>
+      <region>Region IV</region>
+      <photourl>/info-finder/reactor/ano.jpg</photourl>
+	  <url>/info-finder/reactor/ano1.html</url>
+	  <operator>Entergy Operations, Inc.</operator>
+	  <technology>Combustion Engineering</technology>
+	  <output>995 MWe</output>
+	  <statustitle>Arkansas Nuclear 1</statustitle>
+	</facility>
+
+   <facility id="05000368">
+      <latitude>35.483038</latitude>
+	  <longitude>-93.131104</longitude>
+	  <title>Arkansas Nuclear One, Unit 2</title>
+	  <type>Operating Reactor</type>
+      <region>REGION IV</region>
+      <photourl>/info-finder/reactor/ano.jpg</photourl>
+	  <url>/info-finder/reactor/ano2.html</url>
+	  <operator>Entergy Operations, Inc.</operator>
+	  <technology>Babcock &amp; Wilcox Lowered Loop</technology>
+	  <output>843 MWe</output>
+	  <statustitle>Arkansas Nuclear 2</statustitle>
+	</facility>
+
+   <facility id="05000334">
+      <latitude>40.58348</latitude>
+	  <longitude>-80.029965</longitude>
+	  <title>Beaver Valley Power Station, Unit 1</title>
+	  <type>Operating Reactor</type>
+      <region>REGION I</region>
+      <photourl>/info-finder/reactor/bv.jpg</photourl>
+	  <url>/info-finder/reactor/bv1.html</url>
+	  <operator>FirstEnergy Nuclear Operating Co.</operator>
+	  <technology>Westinghouse Three-Loop</technology>
+	  <output>892 MWe</output>
+	  <statustitle>Beaver Valley 1</statustitle>
+	</facility>
+
+   <facility id="05000412">
+      <latitude>40.98348</latitude>
+	  <longitude>-80.029965</longitude>
+	  <title>Beaver Valley Power Station, Unit 2</title>
+	  <type>Operating Reactor</type>
+      <region>REGION I</region>
+      <photourl>/info-finder/reactor/bv.jpg</photourl>
+	  <url>/info-finder/reactor/bv1.html</url>
+	  <operator>FirstEnergy Nuclear Operating Co.</operator>
+	  <technology>Westinghouse Three-Loop</technology>
+	  <output>846 MWe</output>
+	  <statustitle>Beaver Valley 2</statustitle>
+	</facility>
+
+   <facility id="05000456">
+      <latitude>41.525031</latitude>
+	  <longitude>-88.081725</longitude>
+	  <title>Braidwood Station, Unit 1</title>
+	  <type>Operating Reactor</type>
+      <region>REGION III</region>
+      <photourl>/info-finder/reactor/brai.jpg</photourl>
+	  <url>/info-finder/reactor/brai1.html</url>
+	  <operator>Exelon Generation Co., LLC</operator>
+	  <technology>Westinghouse Four-Loop</technology>
+	  <output>1178 MWe</output>
+	  <statustitle>Braidwood 1</statustitle>
+	</facility>
+
+   <facility id="05000457">
+      <latitude>42.329335</latitude>
+	  <longitude>-87.905397</longitude>
+	  <title>Braidwood Station, Unit 2</title>
+	  <type>Operating Reactor</type>
+      <region>REGION III</region>
+      <photourl>/info-finder/reactor/brai.jpg</photourl>
+	  <url>/info-finder/reactor/brai1.html</url>
+	  <operator>Exelon Generation Co., LLC</operator>
+	  <technology>Westinghouse Four-Loop</technology>
+	  <output>1152 MWe</output>
+	  <statustitle>Braidwood 2</statustitle>
+	</facility>
+
+   <facility id="05000259">
+      <latitude>34.802866</latitude>
+	  <longitude>-86.971674</longitude>
+	  <title>Browns Ferry Nuclear Plant, Unit 1</title>
+	  <type>Operating Reactor</type>
+      <region>REGION II</region>
+      <photourl>/info-finder/reactor/bf.jpg</photourl>
+	  <url>/info-finder/reactor/bf1.html</url>
+	  <operator>Tennessee Valley Authority</operator>
+	  <technology>General Electric Type 4</technology>
+	  <output>1065 MWe</output>
+	  <statustitle>Browns Ferry 1</statustitle>
+	</facility>
+
+   <facility id="05000260">
+      <latitude>34.796043</latitude>
+	  <longitude>-86.969147</longitude>
+	  <title>Browns Ferry Nuclear Plant, Unit 2</title>
+	  <type>Operating Reactor</type>
+      <region>REGION II</region>
+      <photourl>/info-finder/reactor/bf.jpg</photourl>
+	  <url>/info-finder/reactor/bf2.html</url>
+	  <operator>Tennessee Valley Authority</operator>
+	  <technology>General Electric Type 4</technology>
+	  <output>1104 MWe</output>
+	  <statustitle>Browns Ferry 2</statustitle>
+	</facility>
+
+   <facility id="05000296">
+      <latitude>35.330369</latitude>
+	  <longitude>-86.586104</longitude>
+	  <title>Browns Ferry Nuclear Plant, Unit 3</title>
+	  <type>Operating Reactor</type>
+      <region>REGION II</region>
+      <photourl>/info-finder/reactor/bf.jpg</photourl>
+	  <url>/info-finder/reactor/bf3.html</url>
+	  <operator>Tennessee Valley Authority</operator>
+	  <technology>General Electric Type 4</technology>
+	  <output>1115 MWe</output>
+	  <statustitle>Browns Ferry 3</statustitle>
+	</facility>
+
+   <facility id="05000325">
+      <latitude>33.921563</latitude>
+	  <longitude>-78.020268</longitude>
+	  <title>Brunswick Steam Electric Plant, Unit 1</title>
+	  <type>Operating Reactor</type>
+      <region>REGION II</region>
+      <photourl>/info-finder/reactor/bru.jpg</photourl>
+	  <url>/info-finder/reactor/bru1.html</url>
+	  <operator>Carolina Power &amp; Light Co.</operator>
+	  <technology>General Electric Type 4</technology>
+	  <output>938 MWe</output>
+	  <statustitle>Brunswick 1</statustitle>
+	</facility>
+
+   <facility id="05000324">
+      <latitude>34.321563</latitude>
+	  <longitude>-78.020268</longitude>
+	  <title>Brunswick Steam Electric Plant, Unit 2</title>
+	  <type>Operating Reactor</type>
+      <region>REGION II</region>
+      <photourl>/info-finder/reactor/bru.jpg</photourl>
+	  <url>/info-finder/reactor/bru2.html</url>
+	  <operator>Carolina Power &amp; Light Co.</operator>
+	  <technology>General Electric Type 4</technology>
+	  <output>937 MWe</output>
+	  <statustitle>Brunswick 2</statustitle>
+	</facility>
+
+   <facility id="05000454">
+      <latitude>42.271131</latitude>
+	  <longitude>-89.093995</longitude>
+	  <title>Byron Station, Unit 1</title>
+	  <type>Operating Reactor</type>
+      <region>REGION III</region>
+      <photourl>/info-finder/reactor/byro.jpg</photourl>
+	  <url>/info-finder/reactor/byro1.html</url>
+	  <operator>Exelon Generation Co., LLC</operator>
+	  <technology>Westinghouse Four-Loop</technology>
+	  <output>1164 MWe</output>
+	  <statustitle>Byron 1</statustitle>
+	</facility>
+
+   <facility id="05000455">
+      <latitude>42.471131</latitude>
+	  <longitude>-89.793995</longitude>
+	  <title>Byron Station, Unit 2</title>
+	  <type>Operating Reactor</type>
+      <region>REGION III</region>
+      <photourl>/info-finder/reactor/byro.jpg</photourl>
+	  <url>/info-finder/reactor/byro2.html</url>
+	  <operator>Exelon Generation Co., LLC</operator>
+	  <technology>Westinghouse Four-Loop</technology>
+	  <output>1136 MWe</output>
+	  <statustitle>Byron 2</statustitle>
+	</facility>
+
+   <facility id="05000483">
+      <latitude>38.576702</latitude>
+	  <longitude>-92.173516</longitude>
+	  <title>Callaway Plant, Unit 1</title>
+	  <type>Operating Reactor</type>
+      <region>REGION IV</region>
+      <photourl>/info-finder/reactor/call.jpg</photourl>
+	  <url>/info-finder/reactor/call.html</url>
+	  <operator>Union Electric Co.</operator>
+	  <technology>Westinghouse Four-Loop</technology>
+	  <output>1236 MWe</output>
+	  <statustitle>Callaway</statustitle>
+	</facility>
+
+   <facility id="05000317">
+      <latitude>38.978445</latitude>
+	  <longitude>-76.492183</longitude>
+	  <title>Calvert Cliffs Nuclear Power Plant, Unit 1</title>
+	  <type>Operating Reactor</type>
+      <region>REGION I</region>
+      <photourl>/info-finder/reactor/calv.jpg</photourl>
+	  <url>/info-finder/reactor/calv1.html</url>
+	  <operator>Calvert Cliffs Nuclear Power Plant Inc.</operator>
+	  <technology>Combustion Engineering</technology>
+	  <output>873 MWe</output>
+	  <statustitle>Calvert Cliffs 1</statustitle>
+	</facility>
+
+   <facility id="05000318">
+      <latitude>39.378445</latitude>
+	  <longitude>-76.492183</longitude>
+	  <title>Calvert Cliffs Nuclear Power Plant, Unit 2</title>
+	  <type>Operating Reactor</type>
+      <region>REGION I</region>
+      <photourl>/info-finder/reactor/calv.jpg</photourl>
+	  <url>/info-finder/reactor/calv2.html</url>
+	  <operator>Calvert Cliffs Nuclear Power Plant Inc.</operator>
+	  <technology>Combustion Engineering</technology>
+	  <output>862 MWe</output>
+	  <statustitle>Calvert Cliffs 2</statustitle>
+	</facility>
+
+   <facility id="05000413">
+      <latitude>34.924867</latitude>
+	  <longitude>-81.025078</longitude>
+	  <title>Catawba Nuclear Station, Unit 1</title>
+	  <type>Operating Reactor</type>
+      <region>REGION II</region>
+      <photourl>/info-finder/reactor/cat.jpg</photourl>
+	  <url>/info-finder/reactor/cat1.html</url>
+	  <operator>Duke Energy Corp.</operator>
+	  <technology>Westinghouse Four-Loop</technology>
+	  <output>1129 MWe</output>
+	  <statustitle>Catawba 1</statustitle>
+	</facility>
+
+   <facility id="05000414">
+      <latitude>35.324867</latitude>
+	  <longitude>-81.025078</longitude>
+	  <title>Catawba Nuclear Station, Unit 2</title>
+	  <type>Operating Reactor</type>
+      <region>REGION II</region>
+      <photourl>/info-finder/reactor/cat.jpg</photourl>
+	  <url>/info-finder/reactor/cat2.html</url>
+	  <operator>Duke Energy Corp.</operator>
+	  <technology>Westinghouse Four-Loop</technology>
+	  <output>1129 MWe</output>
+	  <statustitle>Catawba 2</statustitle>
+	</facility>
+
+   <facility id="05000461">
+      <latitude>40.153648</latitude>
+	  <longitude>-88.964525</longitude>
+	  <title>Clinton Power Station, Unit 1</title>
+	  <type>Operating Reactor</type>
+      <region>REGION II</region>
+      <photourl>/info-finder/reactor/clin.jpg</photourl>
+	  <url>/info-finder/reactor/clin.html</url>
+	  <operator>Exelon Generation Co., LLC</operator>
+	  <technology>General Electric Type 6</technology>
+	  <output>1065 MWe</output>
+	  <statustitle>Clinton</statustitle>
+	</facility>
+
+   <facility id="05000397">
+      <latitude>46.3372</latitude>
+	  <longitude>-119.2672</longitude>
+      <title>Columbia Generating Station</title>
+	  <type>Operating Reactor</type>
+      <region>REGION IV</region>
+      <photourl>/info-finder/reactor/wnp.jpg</photourl>
+	  <url>/info-finder/reactor/wash2.html</url>
+	  <operator>Energy Northwest</operator>
+	  <technology>General Electric Type 5</technology>
+	  <output>1190 MWe</output>
+	  <statustitle>Columbia Generating Station</statustitle>
+	</facility>
+	
+   <facility id="05000445">
+      <latitude>32.234587</latitude>
+	  <longitude>-97.755306</longitude>
+      <title>Comanche Peak Nuclear Power Plant, Unit 1</title>
+	  <type>Operating Reactor</type>
+      <region>REGION IV</region>
+      <photourl>/info-finder/reactor/cp.jpg</photourl>
+	  <url>/info-finder/reactor/cp1.html</url>
+	  <operator>Luminant Generation Co., LLC</operator>
+	  <technology>Westinghouse Four-Loop</technology>
+	  <output>1200 MWe</output>
+	  <statustitle>Comanche Peak 1</statustitle>
+	</facility>
+	
+   <facility id="05000446">
+      <latitude>32.634587</latitude>
+	  <longitude>-97.755306</longitude>
+      <title>Comanche Peak Nuclear Power Plant, Unit 2</title>
+	  <type>Operating Reactor</type>
+      <region>REGION IV</region>
+      <photourl>/info-finder/reactor/cp.jpg</photourl>
+	  <url>/info-finder/reactor/cp2.html</url>
+	  <operator>Luminant Generation Co., LLC</operator>
+	  <technology>Westinghouse Four-Loop</technology>
+	  <output>1150 MWe</output>
+	  <statustitle>Comanche Peak 2</statustitle>
+	</facility>
+	
+   <facility id="05000298">
+      <latitude>40.676111</latitude>
+	  <longitude>-95.859722</longitude>
+      <title>Cooper Nuclear Station</title>
+	  <type>Operating Reactor</type>
+      <region>REGION IV</region>
+      <photourl>/info-finder/reactor/cns.jpg</photourl>
+	  <url>/info-finder/reactor/cns.html</url>
+	  <operator>Nebraska Public Power District</operator>
+	  <technology>General Electric Type 4</technology>
+	  <output>830 MWe</output>
+	  <statustitle>Cooper</statustitle>
+	</facility>
+	
+
+
+   <facility id="05000315">
+      <latitude>42.116707</latitude>
+	  <longitude>-86.454189</longitude>
+      <title>Donald C. Cook Nuclear Plant, Unit 1</title>
+	  <type>Operating Reactor</type>
+      <region>REGION III</region>
+      <photourl>/info-finder/reactor/cook.jpg</photourl>
+	  <url>/info-finder/reactor/cook1.html</url>
+	  <operator>Indiana Michigan Power Co.</operator>
+	  <technology>Westinghouse Four-Loop</technology>
+	  <output>1009 MWe</output>
+	  <statustitle>D.C. Cook 1</statustitle>
+	</facility>
+	
+   <facility id="05000316">
+      <latitude>42.416707</latitude>
+	  <longitude>-86.454189</longitude>
+      <title>Donald C. Cook Nuclear Plant, Unit 2</title>
+	  <type>Operating Reactor</type>
+      <region>REGION III</region>
+      <photourl>/info-finder/reactor/cook.jpg</photourl>
+	  <url>/info-finder/reactor/cook2.html</url>
+	  <operator>Indiana Michigan Power Co.</operator>
+	  <technology>Westinghouse Four-Loop</technology>
+	  <output>1060 MWe</output>
+	  <statustitle>D.C. Cook 2</statustitle>
+	</facility>
+	
+   <facility id="05000346">
+      <latitude>41.5969</latitude>
+	  <longitude>-83.0892</longitude>
+      <title>Davis-Besse Nuclear Power Station, Unit 1</title>
+	  <type>Operating Reactor</type>
+      <region>REGION III</region>
+      <photourl>/info-finder/reactor/davi.jpg</photourl>
+	  <url>/info-finder/reactor/davi.html</url>
+	  <operator>FirstEnergy Nuclear Operating Co.</operator>
+	  <technology>Babcock &amp; Wilcox Lowered Loop</technology>
+	  <output>893 MWe</output>
+	  <statustitle>Davis-Besse</statustitle>
+	</facility>
+		
+   <facility id="05000275">
+      <latitude>35.282752</latitude>
+	  <longitude>-120.659616</longitude>
+      <title>Diablo Canyon Power Plant, Unit 1</title>
+	  <type>Operating Reactor</type>
+      <region>REGION IV</region>
+      <photourl>/info-finder/reactor/diab.jpg</photourl>
+	  <url>/info-finder/reactor/diab1.html</url>
+	  <operator>Pacific Gas &amp; Electric Co.</operator>
+	  <technology>Westinghouse Four-Loop</technology>
+	  <output>1151 MWe</output>
+	  <statustitle>Diablo Canyon 1</statustitle>
+	</facility>
+
+   <facility id="05000323">
+      <latitude>35.682752</latitude>
+	  <longitude>-120.659616</longitude>
+      <title>Diablo Canyon Power Plant, Unit 2</title>
+	  <type>Operating Reactor</type>
+      <region>REGION IV</region>
+      <photourl>/info-finder/reactor/diab.jpg</photourl>
+	  <url>/info-finder/reactor/diab2.html</url>
+	  <operator>Pacific Gas &amp; Electric Co.</operator>
+	  <technology>Westinghouse Four-Loop</technology>
+	  <output>1149 MWe</output>
+	  <statustitle>Diablo Canyon 2</statustitle>
+	</facility>
+
+   <facility id="05000237">
+      <latitude>41.357254</latitude>
+	  <longitude>-89.991178</longitude>
+      <title>Dresden Nuclear Power Station, Unit 2</title>
+	  <type>Operating Reactor</type>
+      <region>REGION III</region>
+      <photourl>/info-finder/reactor/dres.jpg</photourl>
+	  <url>/info-finder/reactor/dres2.html</url>
+	  <operator>Exelon Generation Co., LLC</operator>
+	  <technology>General Electric Type 3</technology>
+	  <output>867 MWe</output>
+	  <statustitle>Dresden 2</statustitle>
+	</facility>
+
+   <facility id="05000249">
+      <latitude>41.757254</latitude>
+	  <longitude>-89.991178</longitude>
+      <title>Dresden Nuclear Power Station, Unit 3</title>
+	  <type>Operating Reactor</type>
+      <region>REGION III</region>
+      <photourl>/info-finder/reactor/dres.jpg</photourl>
+	  <url>/info-finder/reactor/dres3.html</url>
+	  <operator>Exelon Generation Co., LLC</operator>
+	  <technology>General Electric Type 3</technology>
+	  <output>867 MWe</output>
+	  <statustitle>Dresden 3</statustitle>
+	</facility>
+
+   <facility id="05000331">
+      <latitude>41.962501</latitude>
+	  <longitude>-91.691846</longitude>
+      <title>Duane Arnold Energy Center</title>
+	  <type>Operating Reactor</type>
+      <region>REGION III</region>
+      <photourl>/info-finder/reactor/duan.jpg</photourl>
+	  <url>/info-finder/reactor/duan.html</url>
+	  <operator>NextEra Energy Duane Arnold, LLC</operator>
+	  <technology>General Electric Type 4</technology>
+	  <output>640 MWe</output>
+	  <statustitle>Duane Arnold</statustitle>
+	</facility>
+
+   <facility id="05000348">
+      <latitude>31.223231</latitude>
+	  <longitude>-85.390489</longitude>
+      <title>Joseph M. Farley Nuclear Plant, Unit 1</title>
+	  <type>Operating Reactor</type>
+      <region>REGION II</region>
+      <photourl>/info-finder/reactor/far.jpg</photourl>
+	  <url>/info-finder/reactor/far1.html</url>
+	  <operator>Southern Nuclear Operating Co., Inc.</operator>
+	  <technology>Westinghouse Three-Loop</technology>
+	  <output>851 MWe</output>
+	  <statustitle>Farley 1</statustitle>
+	</facility>
+
+   <facility id="05000364">
+      <latitude>31.423231</latitude>
+	  <longitude>-85.390489</longitude>
+      <title>Joseph M. Farley Nuclear Plant, Unit 2</title>
+	  <type>Operating Reactor</type>
+      <region>REGION II</region>
+      <photourl>/info-finder/reactor/far.jpg</photourl>
+	  <url>/info-finder/reactor/far2.html</url>
+	  <operator>Southern Nuclear Operating Co., Inc.</operator>
+	  <technology>Westinghouse Three-Loop</technology>
+	  <output>851 MWe</output>
+	  <statustitle>Farley 2</statustitle>
+	</facility>
+
+   <facility id="05000341">
+      <latitude>42.002267</latitude>
+	  <longitude>-83.308542</longitude>
+      <title>Fermi, Unit 2</title>
+	  <type>Operating Reactor</type>
+      <region>REGION III</region>
+      <photourl>/info-finder/reactor/ferm.jpg</photourl>
+	  <url>/info-finder/reactor/ferm2.html</url>
+	  <operator>Detroit Edison Co.</operator>
+	  <technology>General Electric Type 4</technology>
+	  <output>1122 MWe</output>
+	  <statustitle>Fermi 2</statustitle>
+	</facility>
+
+   <facility id="05000333">
+      <latitude>43.255346</latitude>
+	  <longitude>-76.210497</longitude>
+      <title>James A. FitzPatrick Nuclear Power Plant</title>
+	  <type>Operating Reactor</type>
+      <region>REGION I</region>
+      <photourl>/info-finder/reactor/fitz.jpg</photourl>
+	  <url>/info-finder/reactor/fitz.html</url>
+	  <operator>Entergy Nuclear Operations, Inc.</operator>
+	  <technology>General Electric Type 4</technology>
+	  <output>852 MWe</output>
+	  <statustitle>FitzPatrick</statustitle>
+	</facility>
+
+   <facility id="05000285">
+      <latitude>41.254006</latitude>
+	  <longitude>-95.999258</longitude>
+      <title>Fort Calhoun Station, Unit 1</title>
+	  <type>Operating Reactor</type>
+      <region>REGION IV</region>
+      <photourl>/info-finder/reactor/fcs.jpg</photourl>
+	  <url>/info-finder/reactor/fcs.html</url>
+	  <operator>Omaha Public Power District</operator>
+	  <technology>Combustion Engineering</technology>
+	  <output>500 MWe</output>
+	  <statustitle>Fort Calhoun</statustitle>
+	</facility>
+
+   <facility id="05000244">
+      <latitude>43.16103</latitude>
+	  <longitude>-77.610922</longitude>
+      <title>R. E. Ginna Nuclear Power Plant</title>
+	  <type>Operating Reactor</type>
+      <region>REGION I</region>
+      <photourl>/info-finder/reactor/ginn.jpg</photourl>
+	  <url>/info-finder/reactor/ginn.html</url>
+	  <operator>R. E. Ginna Nuclear Power Plant, LLC</operator>
+	  <technology>Westinghouse Two-Loop</technology>
+	  <output>498 MWe</output>
+	  <statustitle>Ginna</statustitle>
+	</facility>
+
+   <facility id="05000416">
+      <latitude>32.352646</latitude>
+	  <longitude>-90.877882</longitude>
+      <title>Grand Gulf Nuclear Station, Unit 1</title>
+	  <type>Operating Reactor</type>
+      <region>REGION IV</region>
+      <photourl>/info-finder/reactor/gg.jpg</photourl>
+	  <url>/info-finder/reactor/gg1.html</url>
+	  <operator>Entergy Operations, Inc.</operator>
+	  <technology>Westinghouse Two-Loop</technology>
+	  <output>1297 MWe</output>
+	  <statustitle>Grand Gulf 1</statustitle>
+	</facility>
+
+   <facility id="05000400">
+      <latitude>35.772096</latitude>
+	  <longitude>-78.638614</longitude>
+      <title>Shearon Harris Nuclear Power Plant, Unit 1</title>
+	  <type>Operating Reactor</type>
+      <region>REGION II</region>
+      <photourl>/info-finder/reactor/har1.jpg</photourl>
+	  <url>/info-finder/reactor/har1.html</url>
+	  <operator>Carolina Power &amp; Light Co.</operator>
+	  <technology>Westinghouse Two-Loop</technology>
+	  <output>900 MWe</output>
+	  <statustitle>Harris 1</statustitle>
+	</facility>
+
+   <facility id="05000321">
+      <latitude>32.217686</latitude>
+	  <longitude>-82.413461</longitude>
+      <title>Edwin I. Hatch Nuclear Plant, Unit 1</title>
+	  <type>Operating Reactor</type>
+      <region>REGION II</region>
+      <photourl>/info-finder/reactor/hat.jpg</photourl>
+	  <url>/info-finder/reactor/hat1.html</url>
+	  <operator>Southern Nuclear Operating Co., Inc.</operator>
+	  <technology>General Electric Type 4</technology>
+	  <output>876 MWe</output>
+	  <statustitle>Hatch 1</statustitle>
+	</facility>
+
+   <facility id="05000366">
+      <latitude>32.617686</latitude>
+	  <longitude>-82.413461</longitude>
+      <title>Edwin I. Hatch Nuclear Plant, Unit 2</title>
+	  <type>Operating Reactor</type>
+      <region>REGION II</region>
+      <photourl>/info-finder/reactor/hat.jpg</photourl>
+	  <url>/info-finder/reactor/hat2.html</url>
+	  <operator>Southern Nuclear Operating Co., Inc.</operator>
+	  <technology>General Electric Type 4</technology>
+	  <output>883 MWe</output>
+	  <statustitle>Hatch 2</statustitle>
+	</facility>
+
+   <facility id="05000354">
+      <latitude>39.745833</latitude>
+	  <longitude>-75.546667</longitude>
+      <title>Hope Creek Generating Station, Unit 1</title>
+	  <type>Operating Reactor</type>
+      <region>REGION I</region>
+      <photourl>/info-finder/reactor/hope.jpg</photourl>
+	  <url>/info-finder/reactor/hope.html</url>
+	  <operator>PSEG Nuclear, LLC</operator>
+	  <technology>General Electric Type 4</technology>
+	  <output>1061 MWe</output>
+	  <statustitle>Hope Creek 1</statustitle>
+	</facility>
+
+   <facility id="05000247">
+      <latitude>40.714353</latitude>
+	  <longitude>-74.005973</longitude>
+      <title>Indian Point Nuclear Generating Unit 2</title>
+	  <type>Operating Reactor</type>
+      <region>REGION I</region>
+      <photourl>/info-finder/reactor/inpt.jpg</photourl>
+	  <url>/info-finder/reactor/ip2.html</url>
+	  <operator>Entergy Nuclear Operations, Inc.</operator>
+	  <technology>Westinghouse Four-Loop</technology>
+	  <output>1020 MWe</output>
+	  <statustitle>Indian Point 2</statustitle>
+	</facility>
+
+   <facility id="05000247">
+      <latitude>41.114353</latitude>
+	  <longitude>-74.005973</longitude>
+      <title>Indian Point Nuclear Generating Unit 3</title>
+	  <type>Operating Reactor</type>
+      <region>REGION I</region>
+      <photourl>/info-finder/reactor/inpt.jpg</photourl>
+	  <url>/info-finder/reactor/ip3.html</url>
+	  <operator>Entergy Nuclear Operations, Inc.</operator>
+	  <technology>Westinghouse Four-Loop</technology>
+	  <output>1025 MWe</output>
+	  <statustitle>Indian Point 3</statustitle>
+	</facility>
+
+   <facility id="05000305">
+      <latitude>41.345589</latitude>
+	  <longitude>-88.842577</longitude>
+      <title>LaSalle County Station, Unit 1</title>
+	  <type>Operating Reactor</type>
+      <region>REGION III</region>
+      <photourl>/info-finder/reactor/lasa.jpg</photourl>
+	  <url>/info-finder/reactor/lasa1.html</url>
+	  <operator>Exelon Generation Co., LLC</operator>
+	  <technology>General Electric Type 5</technology>
+	  <output>1118 MWe</output>
+	  <statustitle>La Salle 1</statustitle>
+	</facility>
+
+   <facility id="05000374">
+      <latitude>41.845589</latitude>
+	  <longitude>-88.842577</longitude>
+      <title>LaSalle County Station, Unit 2</title>
+	  <type>Operating Reactor</type>
+      <region>REGION III</region>
+      <photourl>/info-finder/reactor/lasa.jpg</photourl>
+	  <url>/info-finder/reactor/lasa2.html</url>
+	  <operator>Exelon Generation Co., LLC</operator>
+	  <technology>General Electric Type 5</technology>
+	  <output>1120 MWe</output>
+	  <statustitle>La Salle 2</statustitle>
+	</facility>
+
+   <facility id="05000352">
+      <latitude>39.952335</latitude>
+	  <longitude>-75.163789</longitude>
+      <title>Limerick Generating Station, Unit 1</title>
+	  <type>Operating Reactor</type>
+      <region>REGION I</region>
+      <photourl>/info-finder/reactor/lim.jpg</photourl>
+	  <url>/info-finder/reactor/lim1.html</url>
+	  <operator>Exelon Generation Co., LLC</operator>
+	  <technology>General Electric Type 4</technology>
+	  <output>1134 MWe</output>
+	  <statustitle>Limerick 1</statustitle>
+	</facility>
+
+   <facility id="05000353">
+      <latitude>40.352335</latitude>
+	  <longitude>-75.163789</longitude>
+      <title>Limerick Generating Station, Unit 2</title>
+	  <type>Operating Reactor</type>
+      <region>REGION I</region>
+      <photourl>/info-finder/reactor/lim.jpg</photourl>
+	  <url>/info-finder/reactor/lim2.html</url>
+	  <operator>Exelon Generation Co., LLC</operator>
+	  <technology>General Electric Type 4</technology>
+	  <output>1134 MWe</output>
+	  <statustitle>Limerick 2</statustitle>
+	</facility>
+
+   <facility id="05000369">
+      <latitude>35.227087</latitude>
+	  <longitude>-80.443127</longitude>
+      <title>McGuire Nuclear Station, Unit 1</title>
+	  <type>Operating Reactor</type>
+      <region>REGION II</region>
+      <photourl>/info-finder/reactor/mcg.jpg</photourl>
+	  <url>/info-finder/reactor/mcg1.html</url>
+	  <operator>Duke Energy Carolinas, LLC</operator>
+	  <technology>Westinghouse Four-Loop</technology>
+	  <output>1100 MWe</output>
+	  <statustitle>McGuire 1</statustitle>
+	</facility>
+
+   <facility id="05000370">
+      <latitude>35.627087</latitude>
+	  <longitude>-80.443127</longitude>
+      <title>McGuire Nuclear Station, Unit 2</title>
+	  <type>Operating Reactor</type>
+      <region>REGION II</region>
+      <photourl>/info-finder/reactor/mcg.jpg</photourl>
+	  <url>/info-finder/reactor/mcg2.html</url>
+	  <operator>Duke Energy Carolinas, LLC</operator>
+	  <technology>Westinghouse Four-Loop</technology>
+	  <output>1100 MWe</output>
+	  <statustitle>McGuire 1</statustitle>
+	</facility>
+
+   <facility id="05000336">
+      <latitude>41.355654</latitude>
+	  <longitude>-72.099521</longitude>
+      <title>Millstone Power Station, Unit 2</title>
+	  <type>Operating Reactor</type>
+      <region>REGION I</region>
+      <photourl>/info-finder/reactor/mill.jpg</photourl>
+	  <url>/info-finder/reactor/mill2.html</url>
+	  <operator>Dominion Nuclear Connecticut, Inc.</operator>
+	  <technology>Combustion Engineering</technology>
+	  <output>884 MWe</output>
+	  <statustitle>Millstone 2</statustitle>
+	</facility>
+
+   <facility id="05000423">
+      <latitude>41.755654</latitude>
+	  <longitude>-72.099521</longitude>
+      <title>Millstone Power Station, Unit 3</title>
+	  <type>Operating Reactor</type>
+      <region>REGION I</region>
+      <photourl>/info-finder/reactor/mill.jpg</photourl>
+	  <url>/info-finder/reactor/mill3.html</url>
+	  <operator>Dominion Nuclear Connecticut, Inc.</operator>
+	  <technology>Westinghouse Four-Loop</technology>
+	  <output>1227 MWe</output>
+	  <statustitle>Millstone 3</statustitle>
+	</facility>
+
+   <facility id="05000263">
+      <latitude>44.979965</latitude>
+	  <longitude>-93.263836</longitude>
+      <title>Monticello Nuclear Generating Plant, Unit 1</title>
+	  <type>Operating Reactor</type>
+      <region>REGION III</region>
+      <photourl>/info-finder/reactor/mont.jpg</photourl>
+	  <url>/info-finder/reactor/mont.html</url>
+	  <operator>Northern States Power Company - Minnesota</operator>
+	  <technology>General Electric Type 3</technology>
+	  <output>579 MWe</output>
+	  <statustitle>Monticello</statustitle>
+	</facility>
+
+   <facility id="05000220">
+      <latitude>43.455346</latitude>
+	  <longitude>-76.510497</longitude>
+      <title>Nine Mile Point Nuclear Station, Unit 1</title>
+	  <type>Operating Reactor</type>
+      <region>REGION I</region>
+      <photourl>/info-finder/reactor/nmp.jpg</photourl>
+	  <url>/info-finder/reactor/nmp1.html</url>
+	  <operator>Nine Mile Point Nuclear Station, LLC</operator>
+	  <technology>General Electric Type 2</technology>
+	  <output>621 MWe</output>
+	  <statustitle>Nine Mile Point 1</statustitle>
+	</facility>
+
+   <facility id="05000410">
+      <latitude>43.855346</latitude>
+	  <longitude>-76.510497</longitude>
+      <title>Nine Mile Point Nuclear Station, Unit 2</title>
+	  <type>Operating Reactor</type>
+      <region>REGION I</region>
+      <photourl>/info-finder/reactor/nmp.jpg</photourl>
+	  <url>/info-finder/reactor/nmp2.html</url>
+	  <operator>Nine Mile Point Nuclear Station, LLC</operator>
+	  <technology>General Electric Type 5</technology>
+	  <output>1140 MWe</output>
+	  <statustitle>Nine Mile Point 2</statustitle>
+	</facility>
+
+   <facility id="05000338">
+      <latitude>37.542979</latitude>
+	  <longitude>-77.469092</longitude>
+      <title>North Anna Power Station, Unit 1</title>
+	  <type>Operating Reactor</type>
+      <region>REGION II</region>
+      <photourl>/info-finder/reactor/na.jpg</photourl>
+	  <url>/info-finder/reactor/na1.html</url>
+	  <operator>Virginia Electric &amp; Power Co.</operator>
+	  <technology>Westinghouse Three-Loop</technology>
+	  <output>980.5 MWe</output>
+	  <statustitle>North Anna 1</statustitle>
+	</facility>
+
+   <facility id="05000339">
+      <latitude>37.942979</latitude>
+	  <longitude>-77.469092</longitude>
+      <title>North Anna Power Station, Unit 2</title>
+	  <type>Operating Reactor</type>
+      <region>REGION II</region>
+      <photourl>/info-finder/reactor/na.jpg</photourl>
+	  <url>/info-finder/reactor/na2.html</url>
+	  <operator>Virginia Electric &amp; Power Co.</operator>
+	  <technology>Westinghouse Three-Loop</technology>
+	  <output>972.9 MWe</output>
+	  <statustitle>North Anna 2</statustitle>
+	</facility>
+
+   <facility id="05000269">
+      <latitude>34.852618</latitude>
+	  <longitude>-82.39401</longitude>
+      <title>Oconee Nuclear Station, Unit 1</title>
+	  <type>Operating Reactor</type>
+      <region>REGION II</region>
+      <photourl>/info-finder/reactor/oco.jpg</photourl>
+	  <url>/info-finder/reactor/oco1.html</url>
+	  <operator>Duke Energy Corp.</operator>
+	  <technology>Babcock &amp; Wilcox Lowered Loop</technology>
+	  <output>846 MWe</output>
+	  <statustitle>Oconee 1</statustitle>
+	</facility>
+
+   <facility id="05000270 ">
+      <latitude>35.152618</latitude>
+	  <longitude>-82.39401</longitude>
+      <title>Oconee Nuclear Station, Unit 2</title>
+	  <type>Operating Reactor</type>
+      <region>REGION II</region>
+      <photourl>/info-finder/reactor/oco.jpg</photourl>
+	  <url>/info-finder/reactor/oco2.html</url>
+	  <operator>Duke Energy Corp.</operator>
+	  <technology>Babcock &amp; Wilcox Lowered Loop</technology>
+	  <output>846 MWe</output>
+	  <statustitle>Oconee 2</statustitle>
+	</facility>
+		
+   <facility id="05000287 ">
+      <latitude>35.452618</latitude>
+	  <longitude>-82.39401</longitude>
+      <title>Oconee Nuclear Station, Unit 3</title>
+	  <type>Operating Reactor</type>
+      <region>REGION II</region>
+      <photourl>/info-finder/reactor/oco.jpg</photourl>
+	  <url>/info-finder/reactor/oco3.html</url>
+	  <operator>Duke Energy Corp.</operator>
+	  <technology>Babcock &amp; Wilcox Lowered Loop</technology>
+	  <output>846 MWe</output>
+	  <statustitle>Oconee 3</statustitle>
+	</facility>
+		
+   <facility id="05000219 ">
+      <latitude>39.953729</latitude>
+	  <longitude>-74.197919</longitude>
+      <title>Oyster Creek Nuclear Generating Station</title>
+	  <type>Operating Reactor</type>
+      <region>REGION I</region>
+      <photourl>/info-finder/reactor/oc.jpg</photourl>
+	  <url>/info-finder/reactor/oc.html</url>
+	  <operator>Exelon Generation Co., LLC</operator>
+	  <technology>General Electric Type 2</technology>
+	  <output>619 MWe</output>
+	  <statustitle>Oyster Creek</statustitle>
+	</facility>
+		
+   <facility id="05000255 ">
+      <latitude>42.403087</latitude>
+	  <longitude>-86.073641</longitude>
+      <title>Palisades Nuclear Plant</title>
+	  <type>Operating Reactor</type>
+      <region>REGION III</region>
+      <photourl>/info-finder/reactor/pali.jpg</photourl>
+	  <url>/info-finder/reactor/pali.html</url>
+	  <operator>Entergy Nuclear Operations, Inc.</operator>
+	  <technology>Combustion Engineering</technology>
+	  <output>778 MWe</output>
+	  <statustitle>Palisades</statustitle>
+	</facility>
+		
+   <facility id="05000258 ">
+      <latitude>33.3891</latitude>
+	  <longitude>-112.8607</longitude>
+      <title>Palo Verde Nuclear Generating Station, Unit 1</title>
+	  <type>Operating Reactor</type>
+      <region>REGION IV</region>
+      <photourl>/info-finder/reactor/palo.jpg</photourl>
+	  <url>/info-finder/reactor/palo1.html</url>
+	  <operator>Arizona Public Service Co.</operator>
+	  <technology>Combustion-Engineering System 80</technology>
+	  <output>1335 MWe</output>
+	  <statustitle>Palo Verde 1</statustitle>
+	</facility>
+		
+   <facility id="05000529">
+      <latitude>33.6891</latitude>
+	  <longitude>-112.8607</longitude>
+      <title>Palo Verde Nuclear Generating Station, Unit 2</title>
+	  <type>Operating Reactor</type>
+      <region>REGION IV</region>
+      <photourl>/info-finder/reactor/palo.jpg</photourl>
+	  <url>/info-finder/reactor/palo2.html</url>
+	  <operator>Arizona Public Service Co.</operator>
+	  <technology>Combustion-Engineering System 80</technology>
+	  <output>1335 MWe</output>
+	  <statustitle>Palo Verde 2</statustitle>
+	</facility>
+		
+   <facility id="05000530">
+      <latitude>33.9891</latitude>
+	  <longitude>-112.8607</longitude>
+      <title>Palo Verde Nuclear Generating Station, Unit 3</title>
+	  <type>Operating Reactor</type>
+      <region>REGION IV</region>
+      <photourl>/info-finder/reactor/palo.jpg</photourl>
+	  <url>/info-finder/reactor/palo3.html</url>
+	  <operator>Arizona Public Service Co.</operator>
+	  <technology>Combustion-Engineering System 80</technology>
+	  <output>1335 MWe</output>
+	  <statustitle>Palo Verde 3</statustitle>
+	</facility>
+		
+   <facility id="05000277">
+      <latitude>40.037876</latitude>
+	  <longitude>-76.305514</longitude>
+      <title>Peach Bottom Atomic Power Station, Unit 2</title>
+	  <type>Operating Reactor</type>
+      <region>REGION I</region>
+      <photourl>/info-finder/reactor/pb.jpg</photourl>
+	  <url>/info-finder/reactor/pb2.html</url>
+	  <operator>Exelon Generation Co., LLC</operator>
+	  <technology>General Electric Type 4</technology>
+	  <output>1112 MWe</output>
+	  <statustitle>Peach Bottom 2</statustitle>
+	</facility>
+		
+   <facility id="05000278">
+      <latitude>40.437876</latitude>
+	  <longitude>-76.305514</longitude>
+      <title>Peach Bottom Atomic Power Station, Unit 3</title>
+	  <type>Operating Reactor</type>
+      <region>REGION I</region>
+      <photourl>/info-finder/reactor/pb.jpg</photourl>
+	  <url>/info-finder/reactor/pb3.html</url>
+	  <operator>Exelon Generation Co., LLC</operator>
+	  <technology>General Electric Type 4</technology>
+	  <output>1112 MWe</output>
+	  <statustitle>Peach Bottom 3</statustitle>
+	</facility>
+		
+   <facility id="05000440">
+      <latitude>41.499495</latitude>
+	  <longitude>-81.695409</longitude>
+      <title>Perry Nuclear Power Plant, Unit 1</title>
+	  <type>Operating Reactor</type>
+      <region>REGION III</region>
+      <photourl>/info-finder/reactor/perr.jpg</photourl>
+	  <url>/info-finder/reactor/perr1.html</url>
+	  <operator>FirstEnergy Nuclear Operating Co.</operator>
+	  <technology>General Electric Type 6</technology>
+	  <output>1261 MWe</output>
+	  <statustitle>Perry 1</statustitle>
+	</facility>
+		
+   <facility id="05000293">
+      <latitude>41.958437</latitude>
+	  <longitude>-70.667258</longitude>
+      <title>Pilgrim Nuclear Power Station</title>
+	  <type>Operating Reactor</type>
+      <region>REGION I</region>
+      <photourl>/info-finder/reactor/pilg.jpg</photourl>
+	  <url>/info-finder/reactor/pilg.html</url>
+	  <operator>Entergy Nuclear Operations, Inc.</operator>
+	  <technology>General Electric Type 3</technology>
+	  <output>685 MWe</output>
+	  <statustitle>Pilgrim 1</statustitle>
+	</facility>
+		
+   <facility id="05000266">
+      <latitude>44.2814</latitude>
+	  <longitude>-87.5353</longitude>
+      <title>Point Beach Nuclear Plant, Unit 1</title>
+	  <type>Operating Reactor</type>
+      <region>REGION III</region>
+      <photourl>/info-finder/reactor/poin.jpg</photourl>
+	  <url>/info-finder/reactor/poin1.html</url>
+	  <operator>NextEra Energy Point Beach, LLC</operator>
+	  <technology>Westinghouse Two-Loop</technology>
+	  <output>600 MWe</output>
+	  <statustitle>Point Beach 1</statustitle>
+	</facility>
+		
+   <facility id="05000301">
+      <latitude>44.6814</latitude>
+	  <longitude>-87.5353</longitude>
+      <title>Point Beach Nuclear Plant, Unit 2</title>
+	  <type>Operating Reactor</type>
+      <region>REGION III</region>
+      <photourl>/info-finder/reactor/poin.jpg</photourl>
+	  <url>/info-finder/reactor/poin2.html</url>
+	  <operator>NextEra Energy Point Beach, LLC</operator>
+	  <technology>Westinghouse Two-Loop</technology>
+	  <output>600 MWe</output>
+	  <statustitle>Point Beach 2</statustitle>
+	</facility>
+		
+   <facility id="05000282">
+      <latitude>44.566111</latitude>
+	  <longitude>-92.536944</longitude>
+      <title>Prairie Island Nuclear Generating Plant, Unit 1</title>
+	  <type>Operating Reactor</type>
+      <region>REGION III</region>
+      <photourl>/info-finder/reactor/prai.jpg</photourl>
+	  <url>/info-finder/reactor/prai1.html</url>
+	  <operator>Northern States Power Co. - Minnesota</operator>
+	  <technology>Westinghouse Two-Loop</technology>
+	  <output>551 MWe</output>
+	  <statustitle>Prairie Island 1</statustitle>
+	</facility>
+		
+   <facility id="05000306">
+      <latitude>44.542526</latitude>
+	  <longitude>-92.533722</longitude>
+      <title>Prairie Island Nuclear Generating Plant, Unit 2</title>
+	  <type>Operating Reactor</type>
+      <region>REGION III</region>
+      <photourl>/info-finder/reactor/prai.jpg</photourl>
+	  <url>/info-finder/reactor/prai2.html</url>
+	  <operator>Northern States Power Co. - Minnesota</operator>
+	  <technology>Westinghouse Two-Loop</technology>
+	  <output>545 MWe</output>
+	  <statustitle>Prairie Island 2</statustitle>
+	</facility>
+		
+   <facility id="05000254">
+      <latitude>41.5067</latitude>
+	  <longitude>-90.515134</longitude>
+      <title>Quad Cities Nuclear Power Station, Unit 1</title>
+	  <type>Operating Reactor</type>
+      <region>REGION III</region>
+      <photourl>/info-finder/reactor/quad.jpg</photourl>
+	  <url>/info-finder/reactor/quad1.html</url>
+	  <operator>Exelon Generation Co., LLC</operator>
+	  <technology>General Electric Type 3</technology>
+	  <output>867 MWe</output>
+	  <statustitle>Quad Cities 1</statustitle>
+	</facility>
+		
+   <facility id="05000265">
+      <latitude>41.9067</latitude>
+	  <longitude>-90.515134</longitude>
+      <title>Quad Cities Nuclear Power Station, Unit 2</title>
+	  <type>Operating Reactor</type>
+      <region>REGION III</region>
+      <photourl>/info-finder/reactor/quad.jpg</photourl>
+	  <url>/info-finder/reactor/quad2.html</url>
+	  <operator>Exelon Generation Co., LLC</operator>
+	  <technology>General Electric Type 3</technology>
+	  <output>869 MWe</output>
+	  <statustitle>Quad Cities 1</statustitle>
+	</facility>
+		
+   <facility id="05000458">
+      <latitude>30.458283</latitude>
+	  <longitude>-91.14032</longitude>
+      <title>River Bend Station, Unit 1</title>
+	  <type>Operating Reactor</type>
+      <region>REGION III</region>
+      <photourl>/info-finder/reactor/rbs.jpg</photourl>
+	  <url>/info-finder/reactor/rbs1.html</url>
+	  <operator>Entergy Operations, Inc.</operator>
+	  <technology>General Electric Type 6</technology>
+	  <output>989 MWe</output>
+	  <statustitle>River Bend 1</statustitle>
+	</facility>
+		
+   <facility id="05000261">
+      <latitude>34.195433</latitude>
+	  <longitude>-79.762562</longitude>
+      <title>H.B. Robinson Steam Electric Plant, Unit 2</title>
+	  <type>Operating Reactor</type>
+      <region>REGION II</region>
+      <photourl>/info-finder/reactor/rob.jpg</photourl>
+	  <url>/info-finder/reactor/rob2.html</url>
+	  <operator>Carolina Power &amp; Light Co.</operator>
+	  <technology>Westinghouse Three-Loop</technology>
+	  <output>710 MWe</output>
+	  <statustitle>Robinson 2</statustitle>
+	</facility>
+		
+   <facility id="05000335">
+      <latitude>27.446706</latitude>
+	  <longitude>-80.325606</longitude>
+      <title>St. Lucie Plant, Unit 1</title>
+	  <type>Operating Reactor</type>
+      <region>REGION II</region>
+      <photourl>/info-finder/reactor/stl.jpg</photourl>
+	  <url>/info-finder/reactor/stl1.html</url>
+	  <operator>Florida Power &amp; Light Co.</operator>
+	  <technology>Combustion Engineering</technology>
+	  <output>839 MWe</output>
+	  <statustitle>Saint Lucie 1</statustitle>
+	</facility>
+		
+   <facility id="05000389">
+      <latitude>27.846706</latitude>
+	  <longitude>-80.325606</longitude>
+      <title>St. Lucie Plant, Unit 2</title>
+	  <type>Operating Reactor</type>
+      <region>REGION II</region>
+      <photourl>/info-finder/reactor/stl.jpg</photourl>
+	  <url>/info-finder/reactor/stl2.html</url>
+	  <operator>Florida Power &amp; Light Co.</operator>
+	  <technology>Combustion Engineering</technology>
+	  <output>839 MWe</output>
+	  <statustitle>Saint Lucie 2</statustitle>
+	</facility>
+		
+   <facility id="05000272">
+      <latitude>39.745833</latitude>
+	  <longitude>-75.546667</longitude>
+      <title>Salem Nuclear Generating Station, Unit 1</title>
+	  <type>Operating Reactor</type>
+      <region>REGION I</region>
+      <photourl>/info-finder/reactor/salm.jpg</photourl>
+	  <url>/info-finder/reactor/salm1.html</url>
+	  <operator>PSEG Nuclear, LLC</operator>
+	  <technology>Westinghouse Four-Loop</technology>
+	  <output>1174 MWe</output>
+	  <statustitle>Salem 1</statustitle>
+	</facility>
+		
+   <facility id="05000311">
+      <latitude>40.145833</latitude>
+	  <longitude>-75.546667</longitude>
+      <title>Salem Nuclear Generating Station, Unit 2</title>
+	  <type>Operating Reactor</type>
+      <region>REGION I</region>
+      <photourl>/info-finder/reactor/salm.jpg</photourl>
+	  <url>/info-finder/reactor/salm2.html</url>
+	  <operator>PSEG Nuclear, LLC</operator>
+	  <technology>Westinghouse Four-Loop</technology>
+	  <output>1130 MWe</output>
+	  <statustitle>Salem 2</statustitle>
+	</facility>
+		
+    <facility id="05000443">
+      <latitude>43.071755</latitude>
+	  <longitude>-70.762553</longitude>
+	  <title>Seabrook Station, Unit 1</title>
+	  <type>Operating Reactor</type>
+      <region>REGION I</region>
+      <photourl>/info-finder/reactor/seab.jpg</photourl>
+	  <url>/info-finder/reactor/seab1.html</url>
+	  <operator>FPL Energy Seabrook, LLC</operator>
+	  <technology>Westinghouse Four-Loop</technology>
+	  <output>1295 MWe</output>
+	  <statustitle>Seabrook 1</statustitle>
+	</facility>
+
+   <facility id="05000327">
+      <latitude>35.04563</latitude>
+	  <longitude>-85.30968</longitude>
+	  <title>Sequoyah Nuclear Plant, Unit 1</title>
+	  <type>Operating Reactor</type>
+      <region>REGION II</region>
+      <photourl>/info-finder/reactor/seq.jpg</photourl>
+	  <url>/info-finder/reactor/seq1.html</url>
+	  <operator>Tennessee Valley Authority</operator>
+	  <technology>Westinghouse Four-Loop</technology>
+	  <output>1148 MWe</output>
+	  <statustitle>Sequoyah 1</statustitle>
+	</facility>
+
+   <facility id="05000328">
+      <latitude>35.44563</latitude>
+	  <longitude>-85.30968</longitude>
+	  <title>Sequoyah Nuclear Plant, Unit 2</title>
+	  <type>Operating Reactor</type>
+      <region>REGION II</region>
+      <photourl>/info-finder/reactor/seq.jpg</photourl>
+	  <url>/info-finder/reactor/seq2.html</url>
+	  <operator>Tennessee Valley Authority</operator>
+	  <technology>Westinghouse Four-Loop</technology>
+	  <output>1126 MWe</output>
+	  <statustitle>Sequoyah 2</statustitle>
+	</facility>
+
+   <facility id="05000498">
+      <latitude>28.982757</latitude>
+	  <longitude>-95.969402</longitude>
+	  <title>South Texas Project, Unit 1</title>
+	  <type>Operating Reactor</type>
+      <region>REGION IV</region>
+      <photourl>/info-finder/reactor/stp.jpg</photourl>
+	  <url>/info-finder/reactor/stp1.html</url>
+	  <operator>STP Nuclear Operating Co.</operator>
+	  <technology>Westinghouse Four-Loop</technology>
+	  <output>1410 MWe</output>
+	  <statustitle>South Texas 1</statustitle>
+	</facility>
+
+   <facility id="05000499">
+      <latitude>29.382757</latitude>
+	  <longitude>-95.969402</longitude>
+	  <title>South Texas Project, Unit 2</title>
+	  <type>Operating Reactor</type>
+      <region>REGION IV</region>
+      <photourl>/info-finder/reactor/stp.jpg</photourl>
+	  <url>/info-finder/reactor/stp2.html</url>
+	  <operator>STP Nuclear Operating Co.</operator>
+	  <technology>Westinghouse Four-Loop</technology>
+	  <output>1410 MWe</output>
+	  <statustitle>South Texas 2</statustitle>
+	</facility>
+
+   <facility id="05000395">
+      <latitude>34.00071</latitude>
+	  <longitude>-81.034814</longitude>
+	  <title>Virgil C. Summer Nuclear Station, Unit 1</title>
+	  <type>Operating Reactor</type>
+      <region>REGION II</region>
+      <photourl>/info-finder/reactor/sum.jpg</photourl>
+	  <url>/info-finder/reactor/sum.html</url>
+	  <operator>South Carolina Electric &amp; Gas Co.</operator>
+	  <technology>Westinghouse Three-Loop</technology>
+	  <output>966 MWe</output>
+	  <statustitle>Summer</statustitle>
+	</facility>
+
+   <facility id="05000280">
+      <latitude>36.978759</latitude>
+	  <longitude>-76.428003</longitude>
+	  <title>Surry Power Station, Unit 1</title>
+	  <type>Operating Reactor</type>
+      <region>REGION II</region>
+      <photourl>/info-finder/reactor/sur.jpg</photourl>
+	  <url>/info-finder/reactor/sur1.html</url>
+	  <operator>Virginia Electric &amp; Power Co. </operator>
+	  <technology>Westinghouse Three-Loop</technology>
+	  <output>799 MWe</output>
+	  <statustitle>Surry 1</statustitle>
+	</facility>
+
+   <facility id="05000281">
+      <latitude>37.378759</latitude>
+	  <longitude>-76.428003</longitude>
+	  <title>Surry Power Station, Unit 2</title>
+	  <type>Operating Reactor</type>
+      <region>REGION II</region>
+      <photourl>/info-finder/reactor/sur.jpg</photourl>
+	  <url>/info-finder/reactor/sur2.html</url>
+	  <operator>Virginia Electric &amp; Power Co. </operator>
+	  <technology>Westinghouse Three-Loop</technology>
+	  <output>799 MWe</output>
+	  <statustitle>Surry 2</statustitle>
+	</facility>
+
+   <facility id="05000387">
+      <latitude>41.054529</latitude>
+	  <longitude>-76.233268</longitude>
+	  <title>Susquehanna Steam Electric Station, Unit 1</title>
+	  <type>Operating Reactor</type>
+      <region>REGION I</region>
+      <photourl>/info-finder/reactor/susq.jpg</photourl>
+	  <url>/info-finder/reactor/susq1.html</url>
+	  <operator>PPL Susquehanna, LLC</operator>
+	  <technology>General Electric Type 4</technology>
+	  <output>1149 MWe</output>
+	  <statustitle>Susquehanna 1</statustitle>
+	</facility>
+
+   <facility id="05000388">
+      <latitude>41.454529</latitude>
+	  <longitude>-76.233268</longitude>
+	  <title>Susquehanna Steam Electric Station, Unit 2</title>
+	  <type>Operating Reactor</type>
+      <region>REGION I</region>
+      <photourl>/info-finder/reactor/susq.jpg</photourl>
+	  <url>/info-finder/reactor/susq2.html</url>
+	  <operator>PPL Susquehanna, LLC</operator>
+	  <technology>General Electric Type 4</technology>
+	  <output>1140 MWe</output>
+	  <statustitle>Susquehanna 2</statustitle>
+	</facility>
+
+   <facility id="05000289">
+      <latitude>40.2737</latitude>
+	  <longitude>-76.884418</longitude>
+	  <title>Three Mile Island Nuclear Station, Unit 1</title>
+	  <type>Operating Reactor</type>
+      <region>REGION I</region>
+      <photourl>/info-finder/reactor/tmi.jpg</photourl>
+	  <url>/info-finder/reactor/tmi1.html</url>
+	  <operator>Exelon Generation Co., LLC</operator>
+	  <technology>Babcock &amp; Wilcox Lowered Loop</technology>
+	  <output>786 MWe</output>
+	  <statustitle>Three Mile Island 1</statustitle>
+	</facility>
+
+   <facility id="05000250">
+      <latitude>25.788969</latitude>
+	  <longitude>-80.226439</longitude>
+	  <title>Turkey Point Nuclear Generating Unit 3</title>
+	  <type>Operating Reactor</type>
+      <region>REGION II</region>
+      <photourl>/info-finder/reactor/tp.jpg</photourl>
+	  <url>/info-finder/reactor/tp3.html</url>
+	  <operator>Florida Power &amp; Light Co.</operator>
+	  <technology>Westinghouse Three-Loop</technology>
+	  <output>2,644 MWt</output>
+	  <statustitle>Turkey Point 3</statustitle>
+	</facility>
+
+   <facility id="05000251">
+      <latitude>26.188969</latitude>
+	  <longitude>-80.226439</longitude>
+	  <title>Turkey Point Nuclear Generating Unit 4</title>
+	  <type>Operating Reactor</type>
+      <region>REGION II</region>
+      <photourl>/info-finder/reactor/tp.jpg</photourl>
+	  <url>/info-finder/reactor/tp4.html</url>
+	  <operator>Florida Power &amp; Light Co.</operator>
+	  <technology>Westinghouse Three-Loop</technology>
+	  <output>2,644 MWt</output>
+	  <statustitle>Turkey Point 4</statustitle>
+	</facility>
+
+   <facility id="05000424">
+      <latitude>33.089873</latitude>
+	  <longitude>-82.015674</longitude>
+	  <title>Vogtle Electric Generating Plant, Unit 1</title>
+	  <type>Operating Reactor</type>
+      <region>REGION II</region>
+      <photourl>/info-finder/reactor/vog.jpg</photourl>
+	  <url>/info-finder/reactor/vog1.html</url>
+	  <operator>Southern Nuclear Operating Co., Inc.</operator>
+	  <technology>Westinghouse Four-Loop</technology>
+	  <output>1109 MWe</output>
+	  <statustitle>Vogtle 1</statustitle>
+	</facility>
+
+   <facility id="05000425">
+      <latitude>33.089873</latitude>
+	  <longitude>-82.015674</longitude>
+	  <title>Vogtle Electric Generating Plant, Unit 2</title>
+	  <type>Operating Reactor</type>
+      <region>REGION II</region>
+      <photourl>/info-finder/reactor/vog.jpg</photourl>
+	  <url>/info-finder/reactor/vog2.html</url>
+	  <operator>Southern Nuclear Operating Co., Inc.</operator>
+	  <technology>Westinghouse Four-Loop</technology>
+	  <output>1127 MWe</output>
+	  <statustitle>Vogtle 2</statustitle>
+	</facility>
+
+   <facility id="05000382">
+      <latitude>29.964722</latitude>
+	  <longitude>-90.070556</longitude>
+	  <title>Waterford Steam Electric Station, Unit 3</title>
+	  <type>Operating Reactor</type>
+      <region>REGION IV</region>
+      <photourl>/info-finder/reactor/wat.jpg</photourl>
+	  <url>/info-finder/reactor/wat3.html</url>
+	  <operator>Entergy Operations, Inc.</operator>
+	  <technology>Combustion Engineering</technology>
+	  <output>1250 MWe</output>
+	  <statustitle>Waterford 3</statustitle>
+	</facility>
+
+   <facility id="05000390">
+      <latitude>35.692015</latitude>
+	  <longitude>-84.86078</longitude>
+	  <title>Watts Bar Nuclear Plant, Unit 1</title>
+	  <type>Operating Reactor</type>
+      <region>REGION II</region>
+      <photourl>/info-finder/reactor/wb.jpg</photourl>
+	  <url>/info-finder/reactor/wb1.html</url>
+	  <operator>Tennessee Valley Authority</operator>
+	  <technology>Westinghouse Four-Loop</technology>
+	  <output>1123 MWe</output>
+	  <statustitle>Watts Bar 1</statustitle>
+	</facility>
+
+   <facility id="05000482">
+      <latitude>38.2389</latitude>
+	  <longitude>-95.6888</longitude>
+      <title>Wolf Creek Generating Station, Unit 1</title>
+	  <type>Operating Reactor</type>
+      <region>REGION IV</region>
+      <photourl>/info-finder/reactor/wc.jpg</photourl>
+	  <url>/info-finder/reactor/wc.html</url>
+	  <operator>Wolf Creek Nuclear Operating Corp.</operator>
+	  <technology>Westinghouse Four-Loop</technology>
+	  <output>1166 MWe</output>
+	  <statustitle>Wolf Creek 1</statustitle>
+	</facility>
+		
+</facilitylocator>
