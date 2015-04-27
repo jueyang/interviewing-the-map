@@ -1,5 +1,7 @@
 ## Interviewing the Map
 
+We will be at SRCCON 2015! http://srccon.org/sessions/proposals/#proposal-116371
+
 ## Concepts
 
 1. Overlay
