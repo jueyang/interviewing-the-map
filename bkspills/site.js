@@ -25,7 +25,7 @@ bk.drawCommunityDistricts = function(featureCollection){
 		fillOpacity:0.5
 	};
 
-	var cd = L.geoJson(featureCollection, {
+	L.geoJson(featureCollection, {
 		style: polygon,
 		onEachFeature: function(feature,layer){
 
@@ -59,7 +59,7 @@ bk.drawSpillPoints = function(featureCollection){
 		fillOpacity: 0.8	
 	};
 
-	var spills = L.geoJson(featureCollection, {
+	L.geoJson(featureCollection, {
 		pointToLayer: function(feature,latlng){
 			if (feature.properties.Amount != 'Unknown') {
 				return L.circleMarker(latlng, circleAmount)
