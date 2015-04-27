@@ -49,16 +49,21 @@
 		function loadCd(data){
 			var polygon = {
 				fillColor:'#fff',
+				weight:0.8,
 				fillOpacity:0.5
 			};
+
 			var cd = L.geoJson(data, {
 				style: polygon,
+				onEachFeature: function(feature,layer){
+					layer.bindPopup('Spill incidents in CD ' + feature.properties.borocd + ': ' + feature.properties.pt_count);
+				}
 			}).addTo(map);
 		}
 
 		function loadSpills(data){
 
-			// circle marker 
+			// circle marker
 			var circleAmount = {
 				radius: 3,
 				fillColor: '#f00',
