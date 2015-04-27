@@ -13,7 +13,7 @@
 
 ## Workflow
 
-# Facilitators
+## Facilitators
 
 - [@geraldarthur](https://github.com/geraldarthur). [The Marshall Project](https://www.themarshallproject.org/)
 - [@jueyang](https://github.com/jueyang). [CUNY Grad School of Journalism](http://www.journalism.cuny.edu/)
