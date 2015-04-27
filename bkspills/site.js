@@ -16,12 +16,11 @@ bk.countPoints = function(polygons,points){
 };
 
 // sum a specific field (turf.sum)
-// with relevant points only (turf.remove)
 bk.sumAmount = function(polygons,points){
 	var polygons = polygons,
-		pointsWithAmount = turf.remove(points,'Amount','Unknown'); //remove points with spill amount as unknown
+		points = points; //remove points with spill amount as unknown
 
-	turf.sum(polygons,pointsWithAmount,'Amount','amount_sum');
+	turf.sum(polygons,points,'Amount','amount_sum');
 };
 
 // render the shapes
@@ -82,8 +81,11 @@ queue()
 	.defer(d3.json, 'cd.geojson')
 	.defer(d3.json, 'spills.geojson')
 	.await(function(err,cd,spills){
+
+		var spillsWithAmount = turf.remove(spills,'Amount','Unknown'); // get relevant points only (turf.remove)
+
 		bk.countPoints(cd,spills);
-		bk.sumAmount(cd,spills);				
+		bk.sumAmount(cd,spillsWithAmount);				
 		bk.drawCommunityDistricts(cd);
 		bk.drawSpillPoints(spills);
 })
