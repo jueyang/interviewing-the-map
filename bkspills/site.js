@@ -9,17 +9,11 @@ bk.tile = L.tileLayer('http://{s}.tiles.wmflabs.org/bw-mapnik/{z}/{x}/{y}.png', 
 
 // point in polygon! (turf.count)
 bk.countPoints = function(polygons,points){
-	var polygons = polygons,
-		points = points;
-
 	turf.count(polygons,points,'pt_count');
 };
 
 // sum a specific field (turf.sum)
 bk.sumAmount = function(polygons,points){
-	var polygons = polygons,
-		points = points; //remove points with spill amount as unknown
-
 	turf.sum(polygons,points,'Amount','amount_sum');
 };
 
