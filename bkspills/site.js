@@ -61,7 +61,7 @@ bk.drawSpillPoints = function(featureCollection){
 
 	L.geoJson(featureCollection, {
 		pointToLayer: function(feature,latlng){
-			if (feature.properties.Amount != 'Unknown') {
+			if (feature.properties.Amount != 'Unknown') { //hint: render differenciation != partial dataset
 				return L.circleMarker(latlng, circleAmount)
 			} else {
 				return L.circleMarker(latlng, circleUnknown)
@@ -81,5 +81,5 @@ queue()
 		bk.countPoints(cd,spills);
 		bk.sumAmount(cd,spillsWithAmount);				
 		bk.drawCommunityDistricts(cd);
-		bk.drawSpillPoints(spills);
+		bk.drawSpillPoints(spills); // explain why passing in the whole collection rather than spillsWithAmount
 })
