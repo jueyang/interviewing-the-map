@@ -34,6 +34,7 @@
 			.defer(d3.json, 'spills.geojson')
 			.await(function(err,cd,spills){
 				countPoints(cd,spills);
+				sumAmount(cd,spills);				
 				loadCd(cd);
 				loadSpills(spills);
 			})
@@ -42,9 +43,16 @@
 			var polygons = polygons,
 				points = points;
 
-			// add counts to polygon
-			turf.count(polygons, points, 'pt_count');
+			turf.count(polygons,points,'pt_count');
 		}
+
+		function sumAmount(polygons,points){
+			var polygons = polygons,
+				pointsWithAmount = turf.remove(points,'Amount','Unknown'); //remove points with spill amount as unknown
+
+			turf.sum(polygons,pointsWithAmount,'Amount','amount_sum');
+		}
+
 
 		function loadCd(data){
 			var polygon = {
@@ -56,7 +64,16 @@
 			var cd = L.geoJson(data, {
 				style: polygon,
 				onEachFeature: function(feature,layer){
-					layer.bindPopup('Spill incidents in CD ' + feature.properties.borocd + ': ' + feature.properties.pt_count);
+
+					var popup = '<div>' +
+						'Spill incidents in CD ' +
+						feature.properties.borocd + ': ' +
+						feature.properties.pt_count + '</br>' +
+						'<strong>Known</strong> Spill Amount: ' +
+						feature.properties.amount_sum + ' Gallons' +
+						'</div>';
+
+					layer.bindPopup(popup);
 				}
 			}).addTo(map);
 		}
