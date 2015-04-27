@@ -1,5 +1,19 @@
-## Examples for Interviewing the Map session at SRCCON 2015
+## Interviewing the Map
 
-[@geraldarthur](https://github.com/geraldarthur)
+## Concepts
 
-[@jueyang](https://github.com/jueyang)
+1. Overlay
+2. Correlation
+3. Aggregation
+4. Network
+
+## It's a narrative! But how do you go one step further?
+
+- [turf.js](http://turfjs.org/)
+
+## Workflow
+
+# Facilitators
+
+- [@geraldarthur](https://github.com/geraldarthur). [The Marshall Project](https://www.themarshallproject.org/)
+- [@jueyang](https://github.com/jueyang). [CUNY Grad School of Journalism](http://www.journalism.cuny.edu/)
