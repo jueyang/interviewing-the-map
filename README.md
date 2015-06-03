@@ -17,5 +17,5 @@ We will be at SRCCON 2015! http://srccon.org/sessions/proposals/#proposal-116371
 
 ## Facilitators
 
-- [@geraldarthur](https://github.com/geraldarthur). [The Marshall Project](https://www.themarshallproject.org/)
+- [@geraldarthur](https://github.com/geraldarthur). [Vocativ](http://vocativ.com)
 - [@jueyang](https://github.com/jueyang). [CUNY Grad School of Journalism](http://www.journalism.cuny.edu/)
