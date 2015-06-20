@@ -8,18 +8,6 @@ Applying GIS concepts to find out how many schools are close to active nucelar r
 + `data.gz` a zip file containing data files and an XML to geoJSON python script
 + `shp.gz` a zip file containing buffers, spatially joined points, and a voronoi analysis
 
-## Tools
-
-+ [Python](https://www.python.org/)
-+ [QGIS](http://www.qgis.org/en/site/)
-+ [MMQGIS plugin](http://michaelminn.com/linux/mmqgis/): particularly handy for quickly creating buffers with radii in metric or English units
-
-*Optional*
-Best for spatial joins on large datasets, or if you're more comfortable with Python and SQL
-
-+ [PostgreSQL](http://www.postgresql.org/)
-+ [PostGIS](http://postgis.net/)
-
 ## Data Sources
 
 ### Operating Reactors in the US
