@@ -2,6 +2,8 @@
 
 We will be at SRCCON 2015! http://srccon.org/sessions/proposals/#proposal-116371
 
+![](http://media.giphy.com/media/142na7ROkljwKA/giphy.gif)
+
 ## Concepts
 
 1. Overlay
