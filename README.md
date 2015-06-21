@@ -11,6 +11,12 @@ We will be at SRCCON 2015! http://srccon.org/sessions/proposals/#proposal-116371
 3. Aggregation
 4. Network
 
+## Examples
+
++ [Toxic spills in Brooklyn](http://jillhubley.com/project/spills/) (We'll recalculate to show spills per block)
++ [Sex offender proximities to playgrounds and schools](http://projects.ocregister.com/jessicas-law-map/) (Orange County Register)
++ [Evaluating traffic laws effectiveness in New York](http://www.nydailynews.com/new-york/exclusive-news-probe-finds-mixed-results-vision-zero-article-1.2235148)
+
 ## Tools to interview maps
 
 + [Python](https://www.python.org/)
