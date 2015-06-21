@@ -2,9 +2,9 @@ var bk = {};
 
 // init map stuff
 bk.map = L.map('map').setView([40.692191, -73.972732], 13);
-
-bk.tile = L.tileLayer('http://{s}.tiles.wmflabs.org/bw-mapnik/{z}/{x}/{y}.png', {
-	attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+// http://a.tile.stamen.com/toner
+bk.tile = L.tileLayer('http://{s}.tile.stamen.com/toner/{z}/{x}/{y}.png', {
+	attribution: 'Map tiles by Stamen Design, under CC BY 3.0. Data by OpenStreetMap, under CC BY SA.'
 }).addTo(bk.map);
 
 // point in polygon! (turf.count)
