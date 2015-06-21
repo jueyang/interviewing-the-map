@@ -30,11 +30,11 @@ bk.drawCommunityDistricts = function(featureCollection){
 		onEachFeature: function(feature,layer){
 
 			var popup = '<div>' +
-				'Spill incidents in CD ' +
-				feature.properties.borocd + ': ' +
-				feature.properties.pt_count + '</br>' +
-				'<strong>Known</strong> Spill Amount: ' +
-				feature.properties.amount_sum + ' Gallons' +
+				'Spill incidents in CD <strong>' +
+				feature.properties.borocd + '</strong>: <strong>' +
+				feature.properties.pt_count + '</strong></br>' +
+				'KNOWN Spill Amount: <strong>' +
+				feature.properties.amount_sum + '</strong> Gallons' +
 				'</div>';
 
 			layer.bindPopup(popup);
