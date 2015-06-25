@@ -3,22 +3,22 @@
     <title></title>
     <layer-tree-group expanded="1" checked="Qt::PartiallyChecked" name="">
         <customproperties/>
-        <layer-tree-layer expanded="1" checked="Qt::Checked" id="schools_within_5m20150621111311808" name="schools-within-5m">
+        <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="schools_within_5m_shp20150620175652347" name="schools-within-5m.shp">
             <customproperties/>
         </layer-tree-layer>
-        <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="reactors_voronoi20150621111311799" name="reactors-voronoi">
+        <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="2011enigma_public_primary_secondary_schools20150620174524815" name="schools">
             <customproperties/>
         </layer-tree-layer>
-        <layer-tree-layer expanded="1" checked="Qt::Checked" id="5m_nuke_zone20150621111311779" name="5m-nuke-zone">
+        <layer-tree-layer expanded="1" checked="Qt::Checked" id="operatingreactors20150620171602442" name="operatingreactors">
             <customproperties/>
         </layer-tree-layer>
-        <layer-tree-layer expanded="1" checked="Qt::Checked" id="operatingreactors20150621111253842" name="operatingreactors">
+        <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="5m_nuke_zone20150620182918634" name="5m-nuke-zone">
             <customproperties/>
         </layer-tree-layer>
-        <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="2011enigma_public_primary_secondary_schools20150621111324106" name="2011enigma-public-primary-secondary-schools">
+        <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="reactors_voronoi_shp20150620183340265" name="reactors-voronoi.shp">
             <customproperties/>
         </layer-tree-layer>
-        <layer-tree-layer expanded="0" checked="Qt::Checked" id="OpenLayers_plugin_layer20150620182535298" name="Google Streets">
+        <layer-tree-layer expanded="1" checked="Qt::Checked" id="OpenLayers_plugin_layer20150620182535298" name="Google Streets">
             <customproperties/>
         </layer-tree-layer>
     </layer-tree-group>
@@ -26,10 +26,10 @@
     <mapcanvas>
         <units>meters</units>
         <extent>
-            <xmin>-8282538.11999257002025843</xmin>
-            <ymin>4944332.62554503045976162</ymin>
-            <xmax>-8204501.4286217549815774</xmax>
-            <ymax>4993476.61123501881957054</ymax>
+            <xmin>-14025940.46850323863327503</xmin>
+            <ymin>2362420.47570837428793311</ymin>
+            <xmax>-7143300.53166795335710049</xmax>
+            <ymax>6696796.42916761990636587</ymax>
         </extent>
         <projections>1</projections>
         <destinationsrs>
@@ -46,72 +46,67 @@
         </destinationsrs>
         <layer_coordinate_transform_info>
             <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="reactors_voronoi_shp20150620183340265"/>
-            <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="5m_nuke_zone20150621111311779"/>
             <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:3857" srcDatumTransform="-1" destDatumTransform="-1" layerid="OpenLayers_plugin_layer20150620182535298"/>
             <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="2011enigma_public_primary_secondary_schools20150620174524815"/>
             <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="5m_nuke_zone20150620182918634"/>
-            <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="2011enigma_public_primary_secondary_schools20150621111324106"/>
             <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="operatingreactors20150620171602442"/>
-            <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="operatingreactors20150621111253842"/>
-            <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="reactors_voronoi20150621111311799"/>
             <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="schools_within_5m_shp20150620175652347"/>
-            <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="schools_within_5m20150621111311808"/>
             <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="5m_nuke_zone_shp20150620172636196"/>
         </layer_coordinate_transform_info>
     </mapcanvas>
     <visibility-presets/>
     <layer-tree-canvas>
         <custom-order enabled="0">
+            <item>operatingreactors20150620171602442</item>
+            <item>2011enigma_public_primary_secondary_schools20150620174524815</item>
+            <item>schools_within_5m_shp20150620175652347</item>
             <item>OpenLayers_plugin_layer20150620182535298</item>
-            <item>operatingreactors20150621111253842</item>
-            <item>5m_nuke_zone20150621111311779</item>
-            <item>reactors_voronoi20150621111311799</item>
-            <item>schools_within_5m20150621111311808</item>
-            <item>2011enigma_public_primary_secondary_schools20150621111324106</item>
+            <item>5m_nuke_zone20150620182918634</item>
+            <item>reactors_voronoi_shp20150620183340265</item>
         </custom-order>
     </layer-tree-canvas>
     <legend updateDrawingOrder="true">
-        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="schools-within-5m" showFeatureCount="0">
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="schools-within-5m.shp" showFeatureCount="0">
             <filegroup open="true" hidden="false">
-                <legendlayerfile isInOverview="0" layerid="schools_within_5m20150621111311808" visible="1"/>
+                <legendlayerfile isInOverview="0" layerid="schools_within_5m_shp20150620175652347" visible="0"/>
             </filegroup>
         </legendlayer>
-        <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="reactors-voronoi" showFeatureCount="0">
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="schools" showFeatureCount="0">
             <filegroup open="true" hidden="false">
-                <legendlayerfile isInOverview="0" layerid="reactors_voronoi20150621111311799" visible="0"/>
-            </filegroup>
-        </legendlayer>
-        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="5m-nuke-zone" showFeatureCount="0">
-            <filegroup open="true" hidden="false">
-                <legendlayerfile isInOverview="0" layerid="5m_nuke_zone20150621111311779" visible="1"/>
+                <legendlayerfile isInOverview="0" layerid="2011enigma_public_primary_secondary_schools20150620174524815" visible="0"/>
             </filegroup>
         </legendlayer>
         <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="operatingreactors" showFeatureCount="0">
             <filegroup open="true" hidden="false">
-                <legendlayerfile isInOverview="0" layerid="operatingreactors20150621111253842" visible="1"/>
+                <legendlayerfile isInOverview="0" layerid="operatingreactors20150620171602442" visible="1"/>
             </filegroup>
         </legendlayer>
-        <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="2011enigma-public-primary-secondary-schools" showFeatureCount="0">
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="5m-nuke-zone" showFeatureCount="0">
             <filegroup open="true" hidden="false">
-                <legendlayerfile isInOverview="0" layerid="2011enigma_public_primary_secondary_schools20150621111324106" visible="0"/>
+                <legendlayerfile isInOverview="0" layerid="5m_nuke_zone20150620182918634" visible="0"/>
             </filegroup>
         </legendlayer>
-        <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="Google Streets" showFeatureCount="0">
-            <filegroup open="false" hidden="false">
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="reactors-voronoi.shp" showFeatureCount="0">
+            <filegroup open="true" hidden="false">
+                <legendlayerfile isInOverview="0" layerid="reactors_voronoi_shp20150620183340265" visible="0"/>
+            </filegroup>
+        </legendlayer>
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="Google Streets" showFeatureCount="0">
+            <filegroup open="true" hidden="false">
                 <legendlayerfile isInOverview="0" layerid="OpenLayers_plugin_layer20150620182535298" visible="1"/>
             </filegroup>
         </legendlayer>
     </legend>
     <projectlayers layercount="6">
         <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
-            <id>2011enigma_public_primary_secondary_schools20150621111324106</id>
-            <datasource>file:./data/2011enigma-public-primary-secondary-schools.csv?type=csv&amp;xField=LONCOD&amp;yField=LATCOD&amp;spatialIndex=yes&amp;subsetIndex=no&amp;watchFile=no</datasource>
+            <id>2011enigma_public_primary_secondary_schools20150620174524815</id>
+            <datasource>file:./2011enigma-public-primary-secondary-schools.csv?type=csv&amp;xField=LONCOD&amp;yField=LATCOD&amp;spatialIndex=yes&amp;subsetIndex=no&amp;watchFile=no</datasource>
             <title></title>
             <abstract></abstract>
             <keywordList>
                 <value></value>
             </keywordList>
-            <layername>2011enigma-public-primary-secondary-schools</layername>
+            <layername>schools</layername>
             <srs>
                 <spatialrefsys>
                     <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
@@ -125,7 +120,7 @@
                 </spatialrefsys>
             </srs>
             <provider encoding="UTF-8">delimitedtext</provider>
-            <previewExpression></previewExpression>
+            <previewExpression>COALESCE( "CONAME", '&lt;NULL>' )</previewExpression>
             <vectorjoins/>
             <expressionfields/>
             <edittypes>
@@ -2275,8 +2270,8 @@
             </edittypes>
         </maplayer>
         <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
-            <id>5m_nuke_zone20150621111311779</id>
-            <datasource>./shp/5m-nuke-zone.shp</datasource>
+            <id>5m_nuke_zone20150620182918634</id>
+            <datasource>../shp/5m-nuke-zone.shp</datasource>
             <title></title>
             <abstract></abstract>
             <keywordList>
@@ -2333,7 +2328,7 @@
             </edittypes>
             <renderer-v2 symbollevels="0" type="singleSymbol">
                 <symbols>
-                    <symbol alpha="0.4" type="fill" name="0">
+                    <symbol alpha="0.294118" type="fill" name="0">
                         <layer pass="0" class="SimpleFill" locked="0">
                             <prop k="border_width_map_unit_scale" v="0,0"/>
                             <prop k="color" v="227,26,28,255"/>
@@ -2563,7 +2558,7 @@
         </maplayer>
         <maplayer minimumScale="0" maximumScale="1e+08" type="plugin" hasScaleBasedVisibilityFlag="0" name="openlayers">
             <id>OpenLayers_plugin_layer20150620182535298</id>
-            <datasource>.</datasource>
+            <datasource></datasource>
             <title></title>
             <abstract></abstract>
             <keywordList>
@@ -2586,9 +2581,9 @@
                 <property key="ol_layer_type" value="Google Streets"/>
             </customproperties>
         </maplayer>
-        <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
-            <id>operatingreactors20150621111253842</id>
-            <datasource>./data/operatingreactors.geojson</datasource>
+        <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" simplifyDrawingHints="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+            <id>operatingreactors20150620171602442</id>
+            <datasource>./operatingreactors.geojson</datasource>
             <title></title>
             <abstract></abstract>
             <keywordList>
@@ -2648,7 +2643,7 @@
                     <symbol alpha="1" type="marker" name="0">
                         <layer pass="0" class="SimpleMarker" locked="0">
                             <prop k="angle" v="0"/>
-                            <prop k="color" v="51,160,44,255"/>
+                            <prop k="color" v="178,223,138,255"/>
                             <prop k="horizontal_anchor_point" v="1"/>
                             <prop k="name" v="circle"/>
                             <prop k="offset" v="0,0"/>
@@ -2880,14 +2875,14 @@
             </edittypes>
         </maplayer>
         <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
-            <id>reactors_voronoi20150621111311799</id>
-            <datasource>./shp/reactors-voronoi.shp</datasource>
+            <id>reactors_voronoi_shp20150620183340265</id>
+            <datasource>../shp/reactors-voronoi.shp</datasource>
             <title></title>
             <abstract></abstract>
             <keywordList>
                 <value></value>
             </keywordList>
-            <layername>reactors-voronoi</layername>
+            <layername>reactors-voronoi.shp</layername>
             <srs>
                 <spatialrefsys>
                     <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
@@ -3167,14 +3162,14 @@
             </edittypes>
         </maplayer>
         <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" simplifyDrawingHints="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
-            <id>schools_within_5m20150621111311808</id>
-            <datasource>./shp/schools-within-5m.shp</datasource>
+            <id>schools_within_5m_shp20150620175652347</id>
+            <datasource>../shp/schools-within-5m.shp</datasource>
             <title></title>
             <abstract></abstract>
             <keywordList>
                 <value></value>
             </keywordList>
-            <layername>schools-within-5m</layername>
+            <layername>schools-within-5m.shp</layername>
             <srs>
                 <spatialrefsys>
                     <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
@@ -3188,7 +3183,7 @@
                 </spatialrefsys>
             </srs>
             <provider encoding="UTF-8">ogr</provider>
-            <previewExpression></previewExpression>
+            <previewExpression>COALESCE( "SCHNAM", '&lt;NULL>' )</previewExpression>
             <vectorjoins/>
             <expressionfields/>
             <edittypes>
@@ -3499,8 +3494,8 @@
             <DegreeFormat type="QString">D</DegreeFormat>
         </PositionPrecision>
         <WCSUrl type="QString"></WCSUrl>
-        <WMSContactPhone type="QString"></WMSContactPhone>
         <WMSServiceCapabilities type="bool">false</WMSServiceCapabilities>
+        <WMSContactPhone type="QString"></WMSContactPhone>
         <WMSServiceAbstract type="QString"></WMSServiceAbstract>
         <WMSAddWktGeometry type="bool">false</WMSAddWktGeometry>
         <Measure>
@@ -3523,11 +3518,11 @@
         </Gui>
         <Digitizing>
             <LayerSnappingList type="QStringList">
-                <value>operatingreactors20150621111253842</value>
-                <value>5m_nuke_zone20150621111311779</value>
-                <value>reactors_voronoi20150621111311799</value>
-                <value>schools_within_5m20150621111311808</value>
-                <value>2011enigma_public_primary_secondary_schools20150621111324106</value>
+                <value>operatingreactors20150620171602442</value>
+                <value>2011enigma_public_primary_secondary_schools20150620174524815</value>
+                <value>schools_within_5m_shp20150620175652347</value>
+                <value>5m_nuke_zone20150620182918634</value>
+                <value>reactors_voronoi_shp20150620183340265</value>
             </LayerSnappingList>
             <LayerSnappingEnabledList type="QStringList">
                 <value>disabled</value>
