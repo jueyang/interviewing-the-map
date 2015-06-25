@@ -5,8 +5,19 @@ Applying GIS concepts to find out how many schools are close to active nucelar r
 
 ## What's in here
 
++ **Girl with Daisy and Atomic Bomb Explosion (1964) - Lyndon B. Johnson Campaign Ad.mkv**: A perennial campaign ad about the terrors of nuclear disasters near children. (It's technically an atomic bomb, not a nuclear reactor which explodes, but it's still an amazing political ad to watch — especially since campaign season is ramping up).
++ **fallout.qgs**: QGIS project file for viewing shapefiles, GeoJSON, and doing medium-scale analysis
 + `data.gz` a zip file containing data files and an XML to geoJSON python script
-+ `shp.gz` a zip file containing buffers, spatially joined points, and a voronoi analysis
+  + **2011enigma-public-primary-secondary-schools.csv**: a listing of all US public primary and secondary schools courtesy of [enigma.io](http://enigma.io/)
+  + **convert-xml.py**: basic python script to read XML and convert it to GeoJSON
+  + **operatingreactors.geojson**: A GeoJSON file of all operating reactors in the US
+  + **operatingreactors.json**: A JSON file of all operating reactors in the US. Not readable by QGIS, but provided for you to compare the differences between JSON and GeoJSON
+  + **operatingreactors.xml**: A crappy XML file with latitudes and longitudes and some basic data about nuclear reactors
+  + **requirements.txt**: A textfile listing Python libraries used in the Python conversion script. To install `pip install -r requirements.txt`
++ `shp.gz` a zip file containing buffers, spatially joined points, and a voronoi analysis shapefiles.
+  + **5m-nuke-zone.shp**: A five mile buffer, in this case a big circle, around operating nuclear reactors.
+  + **reactors-voronoi.shp**: A shapefile of a quick network analysis of operating reactor clusters.
+  + **schools-within-5m.shp**: Shapefile that's been spatially joined, taking the data from the reactors and combining it with the data from each school. (It's like a data join, but with maps.)
 
 ## Data Sources
 
