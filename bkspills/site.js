@@ -84,9 +84,9 @@ bk.trigger = function(elId, layer){
 }
 // start up
 queue()
-	.defer(d3.json, 'data/neighborhood_tabulation_area_bk.geojson')
-	.defer(d3.json, 'data/census_tract_bk.geojson')
-	.defer(d3.json, 'data/spills.geojson')
+	.defer(d3.json, 'neighborhood_tabulation_area_bk.geojson')
+	.defer(d3.json, 'census_tract_bk.geojson')
+	.defer(d3.json, 'spills.geojson')
 	.await(function(err,nta,tract,allSpills){
 
 		var spillsWithAmount = turf.remove(allSpills,'Amount','Unknown'); // get relevant points only
